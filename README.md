@@ -1,4 +1,5 @@
 # death-and-live
+游戏还未开始开发，上面的都只是模版文件，不要下载了
 ### 2019/5/16的一个game play（curse诅咒）
 **features**
 1. 诅咒=不死
